@@ -1,1 +1,91 @@
-this is the first change.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>portfolio</title>
+</head>
+<body>
+    <div class="main-container">
+        <div class="flex-container">
+            <div class="menu-item">Home</div>
+            <div class="menu-item">About</div>
+            <div class="menu-item">Contact</div>
+        </div>
+<div class="image-container">
+    <img class="banner-image" src="image.jpg">  
+    <div class="banner-title">Suman</div>
+    <div class="banner-subtitle"> Java & Python Geek</div>
+</div>
+<div class="skill-heading">
+    <div class="skill-title">
+        MY SKILLS
+    </div>
+</div>
+<div class="skill-container">
+    <div class="skill1">
+        <div class="image">
+            <img id="image" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png">
+        </div>
+        <div id="skill-text" class="text">
+            HTML5
+        </div>
+    </div>
+    <div class="skill1">
+        <div class="image">
+            <img id="image" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png">
+        </div>
+        <div id="skill-text" class="text">
+            PYTHON
+        </div>
+    </div>    <div class="skill1">
+        <div class="image">
+            <img id="image" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Android-1024.png">
+        </div>
+        <div id="skill-text" class="text">
+            ANDROID
+        </div>
+    </div>
+</div>
+<div class="portfolio-heading">
+    <div class="portfolio-title">
+        Previous Work
+    </div>
+</div>
+<hr>
+<div class="portfolio-container">
+    <div class="portfolio-image">
+        <img id="portfolioimg" src="https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcHV0ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60">
+    </div>
+    <div class="portfolio-desc">
+        <div class="portfolio-name">
+Finance App
+        </div>
+        <div class="portfolio-info">
+This is finance App
+        </div>
+    </div>
+</div>
+<div class="portfolio-heading">
+    <div class="portfolio-title">
+Client Testemonial
+    </div>
+</div>
+<hr>
+<div class="testemonial">
+    <div class="client-name">
+David Hank
+    </div>
+    <div class="client-designation">
+        Founder: The coder app
+    </div>
+    <div class="client-testemonial">
+        This is my portfolio website. it is a single page website.
+    </div>
+</div>
+    </div>
+    
+</body>
+</html>
