@@ -1,2 +1,2 @@
-# gitproject
-this is a single page portfolio site by using bootstrap.
+
+This is a single page portfolio site by using bootstrap.
